@@ -3,7 +3,7 @@
 
 	<head>
 
-		<title>file ujian sidqi</title>
+		<title>file ujian</title>
 
 	</head>
 
